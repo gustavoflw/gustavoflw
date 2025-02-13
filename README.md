@@ -6,6 +6,7 @@
 I'm a **Data Engineer** and **Python Developer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
 
 ## 🔧 Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - **Programming:** Python, SQL, Bash, C
 - **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
 - **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
