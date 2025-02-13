@@ -17,7 +17,7 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 
 ## 📈 Stats
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoflw&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoflw&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoflw&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ## 📢 Publications
 - *Identifying New Persons in the Context of the Robocup@Home Competition Using KNN* (IEEE, 2023)
