@@ -14,7 +14,7 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 - **Infrastructure as Code:** Terraform, Cloud Run, Serverless Architectures
 
 ## 📈 GitHub Stats
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolewin&show_icons=true&theme=tokyonight)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo.flw&show_icons=true&theme=tokyonight)
 
 ## 📢 Publications
 - *Identifying New Persons in the Context of the Robocup@Home Competition Using KNN* (IEEE, 2023)
