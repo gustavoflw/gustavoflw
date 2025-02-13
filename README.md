@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Gustavo Lewin
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoflw&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoflw" /> </p>
+
 ## 🚀 About Me
 I'm a **Data Engineer** and **Python Developer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
 
