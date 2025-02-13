@@ -6,7 +6,7 @@
 I'm a **Data Engineer** and **Python Developer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-lewin/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207)  
 
 ## 🔧 Tech Stack
 - **Programming:** Python, SQL, Bash, C
