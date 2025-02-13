@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustavo Lewin
 
-<!--
-**gustavoflw/gustavoflw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Data Engineer** and **Python Developer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Programming:** Python, SQL, Bash, C
+- **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
+- **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
+- **Databases:** PostgreSQL, MySQL, Cloud Firestore
+- **DevOps & CI/CD:** Docker, GitHub Actions, Kubernetes
+- **Web Development & APIs:** FastAPI, Flask, Node.js
+- **AI & ML:** PyTorch, NLP, LLMs
+- **Infrastructure as Code:** Terraform, Cloud Run, Serverless Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolewin&show_icons=true&theme=tokyonight)
+
+## 📢 Publications
+- *Identifying New Persons in the Context of the Robocup@Home Competition Using KNN* (IEEE, 2023)
+- *Collaborative Fuzzy Controlled Obstacle Avoidance in a Vibration-Driven Mobile Robot* (Springer, 2022)
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-lewin/)  
+[![Email](https://img.shields.io/badge/Email-gustavolewin%40email.com-red?logo=gmail)](mailto:gustavolewin@email.com)
