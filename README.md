@@ -22,4 +22,3 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-lewin/)  
-[![Email](https://img.shields.io/badge/Email-gustavolewin%40email.com-red?logo=gmail)](mailto:gustavolewin@email.com)
