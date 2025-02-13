@@ -5,6 +5,9 @@
 ## 🚀 About Me
 I'm a **Data Engineer** and **Python Developer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
 
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-lewin/)  
+
 ## 🔧 Tech Stack
 - **Programming:** Python, SQL, Bash, C
 - **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
@@ -25,8 +28,5 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoflw&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ## 📢 Publications
-- *Identifying New Persons in the Context of the Robocup@Home Competition Using KNN* (IEEE, 2023)
-- *Collaborative Fuzzy Controlled Obstacle Avoidance in a Vibration-Driven Mobile Robot* (Springer, 2022)
-
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-lewin/)  
+- [*Identifying New Persons in the Context of the Robocup@Home Competition Using KNN*](https://ieeexplore.ieee.org/document/10333015) (IEEE, 2023)
+- [*Collaborative Fuzzy Controlled Obstacle Avoidance in a Vibration-Driven Mobile Robot*](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_31) (Springer, 2022)
