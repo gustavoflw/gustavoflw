@@ -9,7 +9,7 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207)  
 
 ## 🔧 Tech Stack
-- **Programming:** Python, SQL, Bash, C
+- **Programming:** Python, SQL, Bash
 - **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
 - **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - **Databases:** PostgreSQL, MySQL, Cloud Firestore
