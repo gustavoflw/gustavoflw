@@ -5,6 +5,8 @@
 ## 🚀 About Me
 I'm a **Data Engineer** and **Python Developer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
 
+![20250606_1209_Modern Workspace Animation_simple_compose_01jx2wn116f0bvg78hdbpxq0v0](https://github.com/user-attachments/assets/6a983aad-2e91-44b6-b22b-8f7c181bfed5)
+
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207)  
 
@@ -30,5 +32,3 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 ## 📢 Publications
 - [*Identifying New Persons in the Context of the Robocup@Home Competition Using KNN*](https://ieeexplore.ieee.org/document/10333015) (IEEE, 2023)
 - [*Collaborative Fuzzy Controlled Obstacle Avoidance in a Vibration-Driven Mobile Robot*](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_31) (Springer, 2022)
-
-![20250606_1209_Modern Workspace Animation_simple_compose_01jx2wn116f0bvg78hdbpxq0v0](https://github.com/user-attachments/assets/6a983aad-2e91-44b6-b22b-8f7c181bfed5)
