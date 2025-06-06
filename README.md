@@ -8,8 +8,6 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207)  
 
-![image](https://github.com/user-attachments/assets/be0cf2a2-0aef-4baa-8699-55f70afed4c7)
-
 ## 🔧 Tech Stack
 - **Programming:** Python, SQL, Bash
 - **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
@@ -32,3 +30,5 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 ## 📢 Publications
 - [*Identifying New Persons in the Context of the Robocup@Home Competition Using KNN*](https://ieeexplore.ieee.org/document/10333015) (IEEE, 2023)
 - [*Collaborative Fuzzy Controlled Obstacle Avoidance in a Vibration-Driven Mobile Robot*](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_31) (Springer, 2022)
+
+![image](https://github.com/user-attachments/assets/be0cf2a2-0aef-4baa-8699-55f70afed4c7)
