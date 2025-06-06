@@ -8,6 +8,8 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207)  
 
+![image](https://github.com/user-attachments/assets/be0cf2a2-0aef-4baa-8699-55f70afed4c7)
+
 ## 🔧 Tech Stack
 - **Programming:** Python, SQL, Bash
 - **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
