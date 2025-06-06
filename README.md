@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gustavo Lewin
+ # 👋 Hi, I'm Gustavo Lewin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoflw&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoflw" /> </p>
 
@@ -31,4 +31,4 @@ I'm a **Data Engineer** and **Python Developer** with a strong background in **B
 - [*Identifying New Persons in the Context of the Robocup@Home Competition Using KNN*](https://ieeexplore.ieee.org/document/10333015) (IEEE, 2023)
 - [*Collaborative Fuzzy Controlled Obstacle Avoidance in a Vibration-Driven Mobile Robot*](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_31) (Springer, 2022)
 
-![image](https://github.com/user-attachments/assets/be0cf2a2-0aef-4baa-8699-55f70afed4c7)
+![20250606_1209_Modern Workspace Animation_simple_compose_01jx2wn116f0bvg78hdbpxq0v0](https://github.com/user-attachments/assets/6a983aad-2e91-44b6-b22b-8f7c181bfed5)
