@@ -5,20 +5,24 @@
 ![20250606_1209_Modern Workspace Animation_simple_compose_01jx2wn116f0bvg78hdbpxq0v0](https://github.com/user-attachments/assets/6a983aad-2e91-44b6-b22b-8f7c181bfed5)
 
 ## 🚀 About Me
-I'm a **Software Engineer** with a strong background in **Backend Development**, **Cloud Computing**, and **Data Science**. My expertise spans **ETL workflows**, **data pipelines**, and **machine learning applications**. I have experience working with **GCP, AWS, Apache Airflow, DBT, and BigQuery**, among other technologies.
+I'm a **Software Engineer / Data Engineer**. I'm a problem solver focused on real-world impact, with full-stack experience — the tech stack is just how we get there. My work spans **DataOps**, **streaming pipelines**, and **AI/GenAI** applications, built on **Python, FastAPI, SQL, Kafka, Flink, dbt, and more**.
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207/)
+[![Email](https://img.shields.io/badge/Email-gustavoflewin%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:gustavoflewin@hotmail.com)
+
+📍 Malta 🇲🇹 | 🇵🇹 Portuguese
 
 ## 🔧 Tech Stack
 - **Programming:** Python, SQL, Bash
-- **Data Engineering:** Apache Airflow, DBT, BigQuery, Data Lakes, ETL Pipelines
+- **Streaming & Data Engineering:** Apache Kafka, Apache Flink, Apache Spark, Apache Airflow, dbt, BigQuery, Data Lakes, ETL Pipelines
 - **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - **Databases:** PostgreSQL, MySQL, Cloud Firestore
-- **DevOps & CI/CD:** Docker, GitHub Actions, Kubernetes
+- **DevOps & GitOps:** Docker, Kubernetes, Terraform, Crossplane, Helm, Argo CD, GitHub Actions
 - **Web Development & APIs:** FastAPI, Flask, Node.js
-- **AI & ML:** PyTorch, NLP, LLMs
-- **Infrastructure as Code:** Terraform, Cloud Run, Serverless Architectures
+- **AI & ML:** GenAI, Vertex AI, LLMs, PyTorch, NLP
+- **Observability:** Grafana, Datadog
+- **Web Scraping:** Large-scale scraping infrastructure, anti-detection/anti-captcha systems
 
 ## 🖥️ Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoflw)](https://github.com/anuraghazra/github-readme-stats)
