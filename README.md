@@ -11,6 +11,9 @@ I'm a **Software Engineer / Data Engineer**. I'm a problem solver focused on rea
 
 📍 Malta 🇲🇹 | 🇵🇹 Portuguese
 
+## 🔥 Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoflw&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
 ## 🔧 Tech Stack
 
 | Category | Technologies |
@@ -24,15 +27,6 @@ I'm a **Software Engineer / Data Engineer**. I'm a problem solver focused on rea
 | **AI & ML** | GenAI, Vertex AI, LLMs, PyTorch, NLP |
 | **Observability** | Grafana, Datadog |
 | **Web Scraping** | Large-scale scraping infrastructure, anti-detection/anti-captcha systems |
-
-## 🖥️ Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoflw)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈 Stats
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoflw&show_icons=true&theme=tokyonight)
-
-## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoflw&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ## 📢 Publications
 - [*Identifying New Persons in the Context of the Robocup@Home Competition Using KNN*](https://ieeexplore.ieee.org/document/10333015) (IEEE, 2023)
