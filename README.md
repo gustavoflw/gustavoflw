@@ -12,15 +12,18 @@ I'm a **Software Engineer / Data Engineer**. I'm a problem solver focused on rea
 📍 Malta 🇲🇹 | 🇵🇹 Portuguese
 
 ## 🔧 Tech Stack
-- **Programming:** Python, SQL, Bash
-- **Streaming & Data Engineering:** Apache Kafka, Apache Flink, Apache Spark, Apache Airflow, dbt, BigQuery, Data Lakes, ETL Pipelines
-- **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
-- **Databases:** PostgreSQL, MySQL, Cloud Firestore
-- **DevOps & GitOps:** Docker, Kubernetes, Terraform, Crossplane, Helm, Argo CD, GitHub Actions
-- **Web Development & APIs:** FastAPI, Flask, Node.js
-- **AI & ML:** GenAI, Vertex AI, LLMs, PyTorch, NLP
-- **Observability:** Grafana, Datadog
-- **Web Scraping:** Large-scale scraping infrastructure, anti-detection/anti-captcha systems
+
+| Category | Technologies |
+|---|---|
+| **Programming** | Python, SQL, Bash |
+| **Streaming & Data Engineering** | Apache Kafka, Apache Flink, Apache Spark, Apache Airflow, dbt, BigQuery, Data Lakes, ETL Pipelines |
+| **Cloud Platforms** | Google Cloud Platform (GCP), Amazon Web Services (AWS) |
+| **Databases** | PostgreSQL, MySQL, Cloud Firestore |
+| **DevOps & GitOps** | Docker, Kubernetes, Terraform, Crossplane, Helm, Argo CD, GitHub Actions |
+| **Web Development & APIs** | FastAPI, Flask, Node.js |
+| **AI & ML** | GenAI, Vertex AI, LLMs, PyTorch, NLP |
+| **Observability** | Grafana, Datadog |
+| **Web Scraping** | Large-scale scraping infrastructure, anti-detection/anti-captcha systems |
 
 ## 🖥️ Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoflw)](https://github.com/anuraghazra/github-readme-stats)
