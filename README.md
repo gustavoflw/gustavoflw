@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoflw&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoflw" /> </p>
 
-![20250606_1209_Modern Workspace Animation_simple_compose_01jx2wn116f0bvg78hdbpxq0v0](https://github.com/user-attachments/assets/6a983aad-2e91-44b6-b22b-8f7c181bfed5)
-
 ## 🚀 About Me
 I'm a **Software Engineer / Data Engineer**. I'm a problem solver focused on real-world impact, with full-stack experience — the tech stack is just how we get there. My work spans **DataOps**, **streaming pipelines**, and **AI/GenAI** applications, built on **Python, FastAPI, SQL, Kafka, Flink, dbt, and more**.
 
