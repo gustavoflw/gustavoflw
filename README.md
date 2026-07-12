@@ -1,5 +1,3 @@
- # 👋 Hi, I'm Gustavo Lewin
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoflw&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoflw" /> </p>
 
 ## 🚀 About Me
