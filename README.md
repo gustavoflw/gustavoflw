@@ -5,7 +5,6 @@ I'm a **Software Engineer / Data Engineer**. I'm a problem solver focused on rea
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoLewin-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-l-4a272a207/)
-[![Email](https://img.shields.io/badge/Email-gustavoflewin%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:gustavoflewin@hotmail.com)
 
 📍 Malta 🇲🇹 | 🇵🇹 Portuguese
 
